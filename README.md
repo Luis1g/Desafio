@@ -1,5 +1,7 @@
 ## **Desafio Practicando Python para Data Science: Challenge Alura Store**
 
+###  **Proposito
+
 El propósito del análisis realizado.
 
 La estructura del proyecto y organización de los archivos.
