@@ -25,4 +25,4 @@ En algunas secciones se muestran graficos para visualiar los datos mejor.
 
 ### **Extra**
 
-Analizamos la influencia que puede tener la ubicación en la tienda
+Analizamos la influencia que puede tener la ubicación en la tienda con un mapa interactivo. En el mapa se observan puntos de los compradores
