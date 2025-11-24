@@ -14,7 +14,15 @@ La estructura del proyecto y organización de los archivos se muestra a continua
     * valoración media de tienda.
     * Productos mas y menos vendidos.
     * Valor de envio promedio por tienda
+4. Calificación promedio por tienda: Se obtienem el promedio de calificaciones que los consumidores le dan a la tienda
+5. Productos mas y menos vendidos: Se muestran los productos mas y menos vendidos. La función que muestra los resultados se puede modificar para mostrar n producto mas y menos vendidos.
+6. Costo de envio promedio por tienda: ¿Cúal es el costo promedio que el cosumidor debe pagar por envio de su producto? 
 
 ### **Graficos**
-Ejemplos de gráficos e insights obtenidos.
 
+En algunas secciones se muestran graficos para visualiar los datos mejor.
+
+
+### **Extra**
+
+Analizamos la influencia que puede tener la ubicación en la tienda
