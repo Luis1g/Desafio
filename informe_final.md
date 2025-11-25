@@ -46,6 +46,9 @@ Visualización de la composición de ventas agrupada por tipo de producto.
 **Observación:** La categoría predominante en todas las sucursales es de la muebles y electrónicos, lo que sugiere que podriamos enfocar las campañas de marketing en este segmento. La categoria menos predominante es la de instrumentos musicales y articulos para le hogar. 
 
 ### 3.3. Ingresos totales por tienda
+Los ingresos totales por tienda nos dan información de la rentabilidad de la tienda. Comose observa en la figura dos, la tienda 4 es la que menos ingresos genero con una diferencia de mas de 100 millones en comparación a la tienda 1.
+![ingresos](ingresos_por_tienda.png)
+*(Ingresos totales por tienda)*
 
 ### 3.3. Análisis Geográfico (Mapa de Calor y Ubicación)
 Se mapearon las ubicaciones de ventas en Colombia. Dado el solapamiento inicial, se utilizó dispersión para diferenciar las tiendas.
@@ -63,6 +66,6 @@ Se mapearon las ubicaciones de ventas en Colombia. Dado el solapamiento inicial,
 1. **Competencia Interna:** La superposición geográfica sugiere que las tiendas podrían estar compitiendo con sus ventas entre sí. Se sugiere diferenciar el inventario por zona.
 2. **Inventario:** Se recomienda liquidar el stock de los productos "Bottom 3" mostrados en la Figura 1 para liberar capital.
 3. **Estrategia Digital:** Dado el éxito de la categoría Muebles, se debería aumentar la publicidad digital en esa línea.
-
+5. **¿Que tienda deberia vender?** La respuesta no es tan facil, pero si solo tomando en cuenta los ingresos generados y la valoracion promedio de la tienda, estamos de acuerdo que la tienda 4 es la que deberia venderse. Su valoración promedio es de 3.995 que es mayor a la valoración proemdio de la tienda 1, pero con la diferencia de que la tienda 1 fue la tienda que genero mas ingresos. Algo importante que tambien deberiamos considerar es su ubicación, si la ubicación de la tienda 4 es clave o no se puede vender, tal vez solo es cuestión de mejorar marketing, pero con los datos que tenemos es la que yo vendería. 
 ---
 *Fin del informe.*
