@@ -50,7 +50,7 @@ Visualización de la composición de ventas agrupada por tipo de producto.
 ### 3.3. Análisis Geográfico (Mapa de Calor y Ubicación)
 Se mapearon las ubicaciones de ventas en Colombia. Dado el solapamiento inicial, se utilizó dispersión para diferenciar las tiendas.
 
-![Captura del Mapa](captura_mapa.png)
+![Captura del Mapa](Mapa.png)
 *(Figura 3: Distribución geográfica. Nota: Ver archivo 'mapa_ventas_ruido.html' para interactividad)*
 
 **Hallazgos Geográficos:**
